@@ -1,4 +1,4 @@
-# IJC445 Project Repository
+# london-air-quality-analysis
 
 This repository contains the R code and visualisation outputs used in the IJC445 Data Visualisation course project.  
 This project explores patterns in air pollution in London by analysing PM2.5 and NO₂ concentrations from multiple monitoring stations, and demonstrates how data visualisation techniques can be used to communicate environmental data effectively.
